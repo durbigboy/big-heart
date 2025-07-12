@@ -24,7 +24,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <Heart className="h-8 w-8 text-[#E4703C]" />
-            <span className="text-xl font-bold text-[#8B4513] font-serif">Big Heart Foundation</span>
+            <span className="text-xl font-bold text-[#8B4513] font-serif">Big Hearts Foundation</span>
           </Link>
 
           {/* Desktop Navigation */}

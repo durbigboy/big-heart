@@ -40,7 +40,7 @@ export default function GetInvolved() {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-[#8B4513] mb-6 font-serif">Get Involved</h1>
           <p className="text-lg text-[#654321] max-w-2xl mx-auto leading-relaxed mb-8">
-            There are so many ways to be part of our Big Heart family. We don't need perfection—just love, creativity,
+            There are so many ways to be part of our Big Hearts family. We don't need perfection—just love, creativity,
             and a willingness to show up for our children.
           </p>
           <div className="bg-[#FDF2E9] p-6 rounded-lg border-l-4 border-[#E4703C] max-w-3xl mx-auto">

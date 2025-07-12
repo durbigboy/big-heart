@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Heart className="h-8 w-8 text-[#E4703C]" />
-              <span className="text-xl font-bold font-serif">Big Heart Foundation</span>
+              <span className="text-xl font-bold font-serif">Big Hearts Foundation</span>
             </div>
             <p className="text-[#F5DEB3] leading-relaxed mb-4">
               A loving home where every child matters. We provide safety, education, and hope to children who need it
@@ -69,7 +69,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-[#A0522D] mt-8 pt-8 text-center">
-          <p className="text-[#F5DEB3] text-sm">© 2024 Big Heart Foundation. Made with love for our children.</p>
+          <p className="text-[#F5DEB3] text-sm">© 2024 Big Hearts Foundation. Made with love for our children.</p>
         </div>
       </div>
     </footer>

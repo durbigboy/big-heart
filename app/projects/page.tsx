@@ -6,22 +6,22 @@ const projects = [
     title: "School Supplies",
     description:
       "Last year, we built a small library and filled it with textbooks, notebooks, and pencils. Watching the children's faces light up when they got their first brand-new notebook was priceless.",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/9.jpg?height=300&width=400",
     testimonial: "Now I can do my homework properly and my teacher says my writing is getting better! - Grace, age 8",
   },
   {
     title: "Nutritious Meals",
     description:
-      "We serve three meals a day in our communal kitchen. The children help with cooking and cleaning, learning life skills while we share stories around the table.",
-    image: "/placeholder.svg?height=300&width=400",
+      "We serve three meals a day in our communal kitchen. The children help with cooking and cleaning, learning life skills while we share stories.",
+    image: "/1.jpg?height=300&width=400",
     testimonial: "I love helping cook dinner. It makes me feel like I'm taking care of my family too. - Samuel, age 12",
   },
   {
     title: "Clean Water",
     description:
       "We installed a water filtration system that provides clean, safe drinking water for all our children. No more worrying about waterborne illnesses or long walks to fetch water.",
-    image: "/placeholder.svg?height=300&width=400",
-    testimonial: "The water tastes so good now, and I don't get sick anymore! - Joy, age 6",
+    image: "/8.jpg?height=300&width=400",
+    testimonial: "The water tastes so good now, and I don't get sick anymore! - Alvin, age 9",
   },
   {
     title: "Safe Shelter",

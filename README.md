@@ -1,4 +1,4 @@
-# Big Heart Website Design
+# Big Hearts Website Design
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 

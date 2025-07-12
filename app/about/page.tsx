@@ -12,7 +12,7 @@ export default function About() {
             <div>
               <Image
                 src="/placeholder.svg?height=400&width=300"
-                alt="Maria, founder of Big Heart Foundation"
+                alt="Maria, founder of Big Hearts Foundation"
                 width={300}
                 height={400}
                 className="rounded-lg shadow-sm w-full"
@@ -25,7 +25,7 @@ export default function About() {
                 knew I couldn't just walk by."
               </p>
               <p className="text-[#8B4513] leading-relaxed">
-                Maria started Big Heart Foundation in her own home in 2018. What began as temporary shelter for three
+                Maria started Big Hearts Foundation in her own home in 2018. What began as temporary shelter for three
                 children has grown into a loving family of 24. With help from the community and volunteers from around
                 the world, we've created a place where children don't just survive—they thrive.
               </p>
@@ -68,7 +68,7 @@ export default function About() {
             <div>
               <Image
                 src="/placeholder.svg?height=300&width=400"
-                alt="The Big Heart Foundation compound"
+                alt="The Big Hearts Foundation compound"
                 width={400}
                 height={300}
                 className="rounded-lg shadow-sm w-full mb-4"

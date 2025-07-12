@@ -13,9 +13,9 @@ const crimsonText = Crimson_Text({
 })
 
 export const metadata: Metadata = {
-  title: "Big Heart Foundation - A loving home where every child matters",
+  title: "Big Hearts Foundation - A loving home where every child matters",
   description:
-    "Big Heart Foundation provides a safe, loving home for children in need. We offer education, nutrition, and hope through community support and sponsorship programs.",
+    "Big Hearts Foundation provides a safe, loving home for children in need. We offer education, nutrition, and hope through community support and sponsorship programs.",
     generator: 'v0.dev'
 }
 

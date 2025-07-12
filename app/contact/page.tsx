@@ -135,7 +135,7 @@ export default function Contact() {
             <div className="bg-white rounded-lg shadow-sm overflow-hidden">
               <Image
                 src="/placeholder.svg?height=200&width=400"
-                alt="Children waving at the gate of Big Heart Foundation"
+                alt="Children waving at the gate of Big Hearts Foundation"
                 width={400}
                 height={200}
                 className="w-full h-48 object-cover"

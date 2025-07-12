@@ -10,7 +10,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           <Image
             src="/7.jpg"
-            alt="Children playing and smiling at Big Heart Foundation"
+            alt="Children playing and smiling at Big Hearts Foundation"
             fill
             className="object-cover"
             priority
@@ -58,7 +58,7 @@ export default function Home() {
               future."
             </p>
             <p className="text-[#8B4513] text-base leading-relaxed">
-              Big Heart Foundation began in 2018 when our founder, Maria, opened
+              Big Hearts Foundation began in 2018 when our founder, Maria, opened
               her doors to three children who had nowhere else to go. Today,
               we're home to 24 beautiful souls, each with their own story,
               dreams, and endless potential.
@@ -96,8 +96,8 @@ export default function Home() {
                     Learning Together
                   </h3>
                   <p className="text-[#654321]">
-                    Every evening, our children gather for homework time,
-                    helping each other with lessons and dreams.
+                    As the sun sets, our children gather - books open, hearts
+                    open, dreams shared, helping each other grow.
                   </p>
                 </div>
               </div>
@@ -105,7 +105,7 @@ export default function Home() {
             <div className="space-y-6">
               <div className="bg-white rounded-lg shadow-sm overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=300&width=400"
+                  src="/7.jpg?height=300&width=400"
                   alt="Children playing in the yard"
                   width={400}
                   height={300}
@@ -116,8 +116,7 @@ export default function Home() {
                     Playing & Growing
                   </h3>
                   <p className="text-[#654321]">
-                    Laughter fills our compound as children play, create, and
-                    simply enjoy being kids.
+                    Our home echoes with joyful sounds of children sorrounded by love and care.
                   </p>
                 </div>
               </div>
